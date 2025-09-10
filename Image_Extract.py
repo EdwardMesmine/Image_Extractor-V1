@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os
 import requests
 import pandas as pd
@@ -118,7 +118,7 @@ if uploaded_file is not None:
             )
         else:
             st.error("❌ No images were downloaded.")
-=======
+
 import os
 import requests
 import pandas as pd
@@ -238,4 +238,4 @@ if uploaded_file is not None:
             )
         else:
             st.error("❌ No images were downloaded.")
->>>>>>> 510fbba8b30891a510d638e1deaf85c169f11c57
+
